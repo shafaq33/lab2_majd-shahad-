@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(164, 206, 219);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(5, 5, 158);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+    p {
+        color: #000;;
+        margin: 10px;
+        padding: 10px;
+    }
+img {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
